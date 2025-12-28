@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100%;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: chartreuse;
+}
+
+.inputAndButtonDiv{
+    display: flex;
+    gap: 1rem;
+    padding: 2rem;
+}
+.formDiv{
+    display: flex;
+    gap: .2rem;
+}
+
+.formcontainer{
+    display: none;
+    
+}
